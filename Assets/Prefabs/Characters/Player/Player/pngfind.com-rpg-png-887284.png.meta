@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: f9e6ba14f4306e54cb4354507515cb1d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388e3d1b20631b48a445ed331887d33
+      internalID: -488464657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 751
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f61a7f1b105b0d4a8d245b702ceb4f0
+      internalID: -1589266805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 755.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18288c1babc85fe4a9cd0c5d98206749
+      internalID: 1483670548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 755.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b8a588e9d0284e88c50a8f7e7c345
+      internalID: 1891594393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 755.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb3e0b4b25c6245b2b1b681b4d9ac1
+      internalID: -207555096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e7d90daba54146826af9c107e5f16
+      internalID: -526181221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 567.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5094c651a0a9ee449667c2c9677c9bf
+      internalID: 583588437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 567.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ab1a5b916819c4097e9c6ad7339dfb
+      internalID: -838605885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 567.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720283d67892adb4a9bedae6f76dc1de
+      internalID: -2119456991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 567.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e35ecb721c99d84f8b53adf89c98a61
+      internalID: -1222029366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c839a5331126d2428aa53742a14db5b
+      internalID: 1666490089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 379.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee541aef437dec14d8ee0c4b21b2b52d
+      internalID: 1609547609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 379.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45cde3bfeb848747be8a765b30a2e9a
+      internalID: 543340273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 379.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6354d5215a27f46bd46a9727c08db2
+      internalID: -569785725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 379.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb711c1bd44d34db3f9759e1205a36
+      internalID: 785891116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e9167362ed5b42b5d727e6c2e93bc
+      internalID: -96361934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 191.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d600dd3b7a821441aacbf9e2b9eb1b5
+      internalID: 392627954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 191.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc23d9142fefdef45ac7f58e987f7734
+      internalID: 1974399163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 191.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f427c3ca5573a4c9b9c46d64ddd562
+      internalID: -44580108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 191.2
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de2984bd5cf3548914f7562704df34
+      internalID: -1180385703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33577f61e8f047b4f93eb6928835faf9
+      internalID: 2004589210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3.199997
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08be572be1ddd6b45b568559949542d9
+      internalID: -378579746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3.199997
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0c91d227773264eb92a02ed101b38e
+      internalID: -386687060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-rpg-png-887284_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3.199997
+        width: 188.8
+        height: 188.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba05e3ed84dd149a5ceebf04eba5cd
+      internalID: 808006294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngfind.com-rpg-png-887284_0: -488464657
+      pngfind.com-rpg-png-887284_1: -1589266805
+      pngfind.com-rpg-png-887284_10: 1666490089
+      pngfind.com-rpg-png-887284_11: 1609547609
+      pngfind.com-rpg-png-887284_12: 543340273
+      pngfind.com-rpg-png-887284_13: -569785725
+      pngfind.com-rpg-png-887284_14: 785891116
+      pngfind.com-rpg-png-887284_15: -96361934
+      pngfind.com-rpg-png-887284_16: 392627954
+      pngfind.com-rpg-png-887284_17: 1974399163
+      pngfind.com-rpg-png-887284_18: -44580108
+      pngfind.com-rpg-png-887284_19: -1180385703
+      pngfind.com-rpg-png-887284_2: 1483670548
+      pngfind.com-rpg-png-887284_20: 2004589210
+      pngfind.com-rpg-png-887284_21: -378579746
+      pngfind.com-rpg-png-887284_22: -386687060
+      pngfind.com-rpg-png-887284_23: 808006294
+      pngfind.com-rpg-png-887284_3: 1891594393
+      pngfind.com-rpg-png-887284_4: -207555096
+      pngfind.com-rpg-png-887284_5: -526181221
+      pngfind.com-rpg-png-887284_6: 583588437
+      pngfind.com-rpg-png-887284_7: -838605885
+      pngfind.com-rpg-png-887284_8: -2119456991
+      pngfind.com-rpg-png-887284_9: -1222029366
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
